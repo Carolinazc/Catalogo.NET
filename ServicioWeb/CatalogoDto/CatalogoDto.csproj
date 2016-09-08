@@ -48,7 +48,7 @@
     <Compile Include="CategoriaProductoListarDto.cs" />
     <Compile Include="CategoriaProductoRegistrarDto.cs" />
     <Compile Include="CategoriaRegistrarDto.cs" />
-    <Compile Include="Class1.cs" />
+    <Compile Include="CategoriaDto.cs" />
     <Compile Include="ProductoActualizar.cs" />
     <Compile Include="ProductoEliminarDto.cs" />
     <Compile Include="ProductoInsertarDto.cs" />
